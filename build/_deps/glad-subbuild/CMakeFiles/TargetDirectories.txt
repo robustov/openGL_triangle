@@ -1,0 +1,3 @@
+/home/robustov/projects/studies/graphics/openGL_triangle/build/_deps/glad-subbuild/CMakeFiles/glad-populate.dir
+/home/robustov/projects/studies/graphics/openGL_triangle/build/_deps/glad-subbuild/CMakeFiles/edit_cache.dir
+/home/robustov/projects/studies/graphics/openGL_triangle/build/_deps/glad-subbuild/CMakeFiles/rebuild_cache.dir
