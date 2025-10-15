@@ -44,11 +44,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/robustov/projects/studies/graphics/openGL_triangle/build/_deps/glfw-build/cmake_install.cmake")
-endif()
-
-if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  # Include the install script for the subdirectory.
   include("/home/robustov/projects/studies/graphics/openGL_triangle/build/_deps/glad-build/cmake_install.cmake")
 endif()
 

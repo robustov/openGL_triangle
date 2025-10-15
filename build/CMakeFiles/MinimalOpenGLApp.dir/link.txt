@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MinimalOpenGLApp.dir/src/main.cpp.o -o MinimalOpenGLApp  /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/libSDL2.so _deps/glad-build/libglad.a -lwayland-client -lwayland-cursor -lxkbcommon -ldecor-0 

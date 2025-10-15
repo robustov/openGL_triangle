@@ -93,10 +93,8 @@ triangle_EXTERNAL_OBJECTS =
 triangle: CMakeFiles/triangle.dir/src/main.cpp.o
 triangle: CMakeFiles/triangle.dir/build.make
 triangle: /usr/lib/x86_64-linux-gnu/libGL.so
-triangle: _deps/glfw-build/src/libglfw3.a
+triangle: /usr/lib/x86_64-linux-gnu/libSDL2.so
 triangle: _deps/glad-build/libglad.a
-triangle: /usr/lib/x86_64-linux-gnu/librt.a
-triangle: /usr/lib/x86_64-linux-gnu/libm.so
 triangle: CMakeFiles/triangle.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/robustov/projects/studies/graphics/openGL_triangle/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable triangle"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/triangle.dir/link.txt --verbose=$(VERBOSE)
